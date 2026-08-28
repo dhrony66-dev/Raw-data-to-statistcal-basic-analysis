@@ -1,0 +1,7 @@
+Variable_1,Variable_2,Selected_test,Statistic,p_value
+name,city,Chi-square Test,140.0,0.03769886560346827
+name,email,Chi-square Test,300.00000000000006,0.00510471160315044
+name,join_date,Chi-square Test,300.0,0.0051047116031504676
+city,email,Chi-square Test,123.125,0.1092266315210079
+city,join_date,Chi-square Test,123.125,0.1092266315210079
+email,join_date,Chi-square Test,281.25,0.006404861991090944

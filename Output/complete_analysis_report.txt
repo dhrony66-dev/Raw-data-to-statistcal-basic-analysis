@@ -1,0 +1,99 @@
+
+============================================================
+AUTOMATED RESEARCH DATA ANALYSIS PIPELINE
+============================================================
+
+
+PHASE 1: DATA CLEANING
+------------------------------------------------------------
+
+Original rows:
+20
+
+Original columns:
+7
+
+Duplicates removed:
+0
+
+Numerical missing values filled:
+4
+
+Categorical missing values filled:
+3
+
+Outliers capped:
+7
+
+Final rows:
+20
+
+Final columns:
+7
+
+Remaining missing values:
+0
+
+Remaining duplicates:
+0
+
+
+PHASE 2: DATA VALIDATION
+------------------------------------------------------------
+
+Validation completed.
+
+See:
+validation_report.csv
+
+
+PHASE 3: AUTOMATED EDA
+------------------------------------------------------------
+
+Descriptive statistics:
+Generated
+
+Frequency tables:
+Generated
+
+Histograms:
+Generated
+
+Boxplots:
+Generated
+
+Correlation matrix:
+Generated
+
+
+PHASE 4: DECISION-BASED STATISTICAL ANALYSIS
+------------------------------------------------------------
+
+Variable profiling:
+Generated
+
+Normality analysis:
+Generated
+
+Q-Q plots:
+Generated
+
+Automatic correlation test:
+Generated
+
+Automatic group comparison:
+Generated
+
+Categorical association test:
+Generated
+
+VIF:
+Generated when appropriate
+
+Decision logic:
+Generated
+
+
+============================================================
+PIPELINE COMPLETED SUCCESSFULLY
+============================================================

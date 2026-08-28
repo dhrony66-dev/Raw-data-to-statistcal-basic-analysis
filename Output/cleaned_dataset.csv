@@ -1,0 +1,21 @@
+id,name,age,city,salary,email,join_date
+1,rahim uddin,28.0,dhaka,45000.0,rahim.uddin@email.com,3/15/2021
+2,karim sheikh,35.0,chittagong,52000.0,karim.sheikh@email.com,7/22/2020
+3,fatema begum,34.888888888888886,sylhet,38000.0,fatema.b@email.com,1/10/2022
+4,nusrat jahan,29.0,dhaka,70875.0,nusrat.j@email.com,11/5/2019
+5,rahim uddin,28.0,dhaka,45000.0,rahim.uddin@email.com,3/15/2021
+6,mizanur rahman,42.0,khulna,70875.0,mizanur.r@email.com,5/30/2018
+7,sabbir hossain,17.625000000000004,rajshahi,41000.0,sabbir.h@email.com,2/14/2023
+8,tania akter,31.0,barisal,47000.0,rahim.uddin@email.com,9/18/2020
+9,jahangir alam,45.29166666666666,dhaka,60000.0,jahangir.a@email.com,12/1/2017
+10,nadia islam,26.0,rangpur,39000.0,nadia.islam@email.com,3/15/2021
+11,rahim uddin,28.0,dhaka,45000.0,rahim.uddin@email.com,3/15/2021
+12,shahin mia,33.0,dhaka,43000.0,shahin.mia@email.com,6/25/2021
+13,ayesha khatun,27.0,sylhet,44000.0,ayesha.k@email.com,4/11/2022
+14,habibur rahman,45.0,mymensingh,70875.0,habibur.r@email.com,8/19/2016
+15,ruma chowdhury,34.888888888888886,dhaka,46000.0,ruma.c@email.com,1/27/2020
+16,kamal hossain,38.0,chittagong,70875.0,kamal.h @email.com,3/9/2019
+17,nurjahan begum,30.0,khulna,42000.0,nurjahan.b@email.com,10/2/2021
+18,nurjahan begum,30.0,khulna,42000.0,nurjahan.b@email.com,10/2/2021
+19,delwar hossain,34.0,mymensingh,48000.0,delwar.h@email.com,12/15/2020
+20,anika tabassum,17.625000000000004,dhaka,45500.0,anika.t@email.com,5/20/2023

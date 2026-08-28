@@ -1,0 +1,125 @@
+
+============================================================
+PHASE 4: DECISION-BASED STATISTICAL ANALYSIS
+============================================================
+
+Dataset size:
+20 rows × 7 columns
+
+Target variable:
+None
+
+Numerical variables analyzed:
+2
+
+Categorical variables:
+4
+
+
+------------------------------------------------------------
+NORMALITY ANALYSIS
+------------------------------------------------------------
+
+Shapiro-Wilk:
+Applied when 3 ≤ n ≤ 5000
+
+Skewness:
+Calculated
+
+Kurtosis:
+Calculated
+
+Q-Q plots:
+Generated
+
+
+------------------------------------------------------------
+CORRELATION ANALYSIS
+------------------------------------------------------------
+
+The system selects:
+
+Pearson
+    ↓
+when both variables are approximately normal
+
+Spearman
+    ↓
+when normality is not supported
+
+
+------------------------------------------------------------
+GROUP COMPARISON
+------------------------------------------------------------
+
+2 groups:
+
+Approximately normal
+    ↓
+Independent t-test
+
+Non-normal
+    ↓
+Mann-Whitney U
+
+
+More than 2 groups:
+
+Approximately normal
+    ↓
+One-way ANOVA
+
+Non-normal
+    ↓
+Kruskal-Wallis
+
+
+------------------------------------------------------------
+CATEGORICAL ASSOCIATION
+------------------------------------------------------------
+
+Chi-square test is used when appropriate.
+
+For a 2×2 table with small expected frequencies:
+
+Fisher's Exact Test
+
+
+------------------------------------------------------------
+MULTICOLLINEARITY
+------------------------------------------------------------
+
+VIF is calculated only when:
+
+Multiple numerical predictors exist.
+
+VIF < 5:
+Generally acceptable
+
+VIF 5–10:
+Potential concern
+
+VIF > 10:
+Serious concern
+
+
+------------------------------------------------------------
+IMPORTANT
+------------------------------------------------------------
+
+This system provides data-driven statistical test
+selection.
+
+Final statistical test selection should also consider:
+
+1. Research question
+2. Study design
+3. Variable measurement scale
+4. Independence of observations
+5. Model assumptions
+6. Sample size
+
+
+============================================================
+PHASE 4 COMPLETED
+============================================================

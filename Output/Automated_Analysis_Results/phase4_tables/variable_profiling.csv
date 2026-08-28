@@ -1,0 +1,8 @@
+Variable,Data_type,Variable_type,Unique_values,Subtype
+id,int64,Numerical,20,Continuous / High-cardinality
+name,string,Categorical,17,Continuous / High-cardinality
+age,float64,Numerical,15,Continuous / High-cardinality
+city,string,Categorical,8,Low-cardinality
+salary,float64,Numerical,14,Continuous / High-cardinality
+email,string,Categorical,16,Continuous / High-cardinality
+join_date,string,Categorical,16,Continuous / High-cardinality

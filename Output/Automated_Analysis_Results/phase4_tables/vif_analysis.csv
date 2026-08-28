@@ -1,0 +1,3 @@
+Variable,VIF,Tolerance,Interpretation
+age,1.6254159843575644,0.6152271231633322,Acceptable
+salary,1.6254159843575648,0.615227123163332,Acceptable

@@ -1,0 +1,10 @@
+Metric,Value
+Rows,20
+Columns,7
+Numerical columns,3
+Categorical columns,4
+Missing values,0
+Duplicate rows,0
+Constant columns,0
+Infinite values,0
+Validation status,PASSED

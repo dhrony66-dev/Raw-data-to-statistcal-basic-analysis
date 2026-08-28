@@ -1,0 +1,7 @@
+Analysis,Decision
+Normality,Shapiro-Wilk + Skewness + Q-Q Plot
+Numerical vs Numerical,Pearson if approximately normal; otherwise Spearman
+Continuous target vs 2 groups,t-test if approximately normal; otherwise Mann-Whitney U
+Continuous target vs >2 groups,ANOVA if approximately normal; otherwise Kruskal-Wallis
+Categorical vs Categorical,Chi-square; Fisher's Exact when 2×2 expected frequencies are small
+Multicollinearity,VIF calculated when multiple numerical predictors exist
